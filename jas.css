@@ -8,7 +8,7 @@
 .list-table {}
 
 .list-item {
-        width: auto;
+        width: 70;
         text-align: center;
         vertical-align: top;
 }
@@ -18,7 +18,8 @@
 .list-animal-photo {
 	border-style: none;
 	border-width: 0;
-	height: 50px;
+	height: 100px;
+	width: 70px;
 }
 
 .list-animal-info-block {
