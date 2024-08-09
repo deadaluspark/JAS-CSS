@@ -2,7 +2,7 @@
  Page: List of Animals
 ************************************************************/
 .list-body {
-        background-color: black
+        background-color: black;
 }
 
 .list-table {}
@@ -18,13 +18,13 @@
 .list-animal-photo {
     border-style: none;
     border-width: 0;
-    height: 50px
+    height: 50px;
 }
 
 .list-animal-info-block
 {
         display: table;
-        width: 75px;
+        width: 70px;
         margin-top: 0px;
         margin-right: auto;
         margin-bottom: 2px;
@@ -49,7 +49,7 @@
         margin-top: 0px;
 }
 
-.list-animal-sexSN, .list-animal-breed, .list-animal-age, .list-animal-detail, >
+.list-animal-sexSN, .list-animal-breed, .list-animal-age, .list-animal-detail, .list-animal-breed, .list-animal-foundtype
 {
         margin-top: 1px;
         margin-bottom: 1px;
