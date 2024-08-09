@@ -18,14 +18,14 @@
 .list-animal-photo {
 	border-style: none;
 	border-width: 0;
-	height: 100px;
-	width: 70px;
-	max-width: 75px;
+	height: 50px;
+	width: 40px;
+	max-width: 40px;
 }
 
 .list-animal-info-block {
         display: table;
-        width: 70px;
+        width: 50px;
         margin-top: 0px;
         margin-right: auto;
         margin-bottom: 2px;
