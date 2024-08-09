@@ -8,7 +8,7 @@
 .list-table {}
 
 .list-item {
-        width: 70;
+        width: 75px;
         text-align: center;
         vertical-align: top;
 }
@@ -20,6 +20,7 @@
 	border-width: 0;
 	height: 100px;
 	width: 70px;
+	max-width: 75px;
 }
 
 .list-animal-info-block {
@@ -49,7 +50,7 @@
         margin-top: 0px;
 }
 
-.list-animal-sexSN, .list-animal-breed, .list-animal-age, .list-animal-detail, .list-animal-breed, .list-animal-foundtype {
+.list-animal-sexSN, .list-animal-breed, .list-animal-age, .list-animal-detail, .list-animal-breed, .list-animal-foundtype, .list-anima-species {
         margin-top: 1px;
         margin-bottom: 1px;
         font-family: "Verdana", "Helvetica", "Arial", sans-serif;
