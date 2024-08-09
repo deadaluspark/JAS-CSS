@@ -8,7 +8,7 @@
 .list-table {}
 
 .list-item {
-        width: 75px;
+        width: auto;
         text-align: center;
         vertical-align: top;
 }
