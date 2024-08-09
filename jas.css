@@ -1,0 +1,59 @@
+/***********************************************************
+ Page: List of Animals
+************************************************************/
+.list-body {
+        background-color: black
+}
+
+.list-table {}
+
+.list-item {
+        width: auto;
+        text-align: center;
+        vertical-align: top;
+}
+
+.list-animal-photo-block {}
+
+.list-animal-photo {
+    border-style: none;
+    border-width: 0;
+    height: 50px
+}
+
+.list-animal-info-block
+{
+        display: table;
+        width: 75px;
+        margin-top: 0px;
+        margin-right: auto;
+        margin-bottom: 2px;
+        margin-left: auto;
+}
+
+.list-animal-id {
+        font-family: "Verdana", "Helvetica", "Arial", sans-serif;
+        font-size: 10%;
+        line-height: 20%;
+        color: #FFFFFF;
+}
+
+.list-animal-name {
+        font-family: "Verdana", "Helvetica", "Arial", sans-serif;
+        color: #FFFFFF;
+        font-size: 50%;
+        font-weight: bold;
+        margin-bottom: 1px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+}
+
+.list-animal-sexSN, .list-animal-breed, .list-animal-age, .list-animal-detail, >
+{
+        margin-top: 1px;
+        margin-bottom: 1px;
+        font-family: "Verdana", "Helvetica", "Arial", sans-serif;
+        font-size: 40%;
+        color: #FFFFFF;
+}
